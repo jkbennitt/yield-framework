@@ -1,0 +1,13 @@
+{
+  "hooks": [
+    {
+      "matcher": "PostToolUse",
+      "hooks": [
+        {
+          "type": "prompt",
+          "prompt": "After writing or editing code, briefly scan for obvious Yield anti-patterns: magic numbers, hardcoded config, deeply nested logic, or embedded heuristics. If you spot something significant, mention it in ONE sentence at the end of your response with a suggestion. Don't be noisy about minor issues—only flag things that meaningfully violate Yield principles. Format: '⚡ Yield: [brief observation and suggestion]'. If the code is clean, say nothing."
+        }
+      ]
+    }
+  ]
+}

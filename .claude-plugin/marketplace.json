@@ -1,0 +1,24 @@
+{
+  "name": "yield-framework",
+  "owner": {
+    "name": "AppSprout",
+    "email": "plugin@appsprout.dev"
+  },
+  "metadata": {
+    "description": "The Yield Framework plugin marketplace - build software that compounds",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "yield-framework",
+      "source": "./",
+      "description": "Apply the Yield framework to build software that compounds. Detects cleverness debt, audits for leverage, and guides architecture decisions.",
+      "version": "1.0.0",
+      "author": {
+        "name": "AppSprout"
+      },
+      "category": "development",
+      "tags": ["architecture", "code-quality", "technical-debt", "first-principles"]
+    }
+  ]
+}

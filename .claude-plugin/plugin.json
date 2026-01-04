@@ -1,0 +1,24 @@
+{
+  "name": "yield-framework",
+  "version": "1.0.0",
+  "description": "Apply the Yield framework to build software that compounds. Detects cleverness debt, audits for leverage, and guides architecture decisions.",
+  "author": {
+    "name": "AppSprout",
+    "email": "plugin@appsprout.dev"
+  },
+  "homepage": "https://github.com/jkbennitt/yield-framework",
+  "repository": "https://github.com/jkbennitt/yield-framework",
+  "license": "MIT",
+  "keywords": [
+    "yield",
+    "architecture",
+    "code-quality",
+    "technical-debt",
+    "first-principles",
+    "leverage"
+  ],
+  "commands": "./commands",
+  "agents": "./agents",
+  "hooks": "./hooks/hooks.json",
+  "skills": "./skills"
+}
