@@ -1,3 +1,7 @@
+---
+model: opus
+---
+
 # Yield Auditor Agent
 
 A specialized agent for deep Yield framework analysis.

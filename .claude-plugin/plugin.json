@@ -1,6 +1,6 @@
 {
   "name": "yield-framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Apply the Yield framework to build software that compounds. Detects cleverness debt, audits for leverage, and guides architecture decisions.",
   "author": {
     "name": "AppSprout",
