@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "The Yield Framework plugin marketplace - build software that compounds",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   "plugins": [
     {
       "name": "yield-framework",
       "source": "./",
       "description": "Apply the Yield framework to build software that compounds. Detects cleverness debt, audits for leverage, and guides architecture decisions.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "AppSprout"
       },
