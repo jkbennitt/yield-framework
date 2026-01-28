@@ -51,4 +51,4 @@ MIT
 
 ## Author
 
-Built by AppSprout — [appsprout.com](https://appsprout.com)
+Built by AppSprout — [appsprout.com](https://appsprout.dev)
